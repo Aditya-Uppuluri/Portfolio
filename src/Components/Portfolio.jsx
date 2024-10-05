@@ -30,30 +30,30 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
+  // {
+  //   title: "10 Things To Know About Azure Static Web Apps 🎉",
+  //   description:
+  //     "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+  //   url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+  // },
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Samvidhan: Gamifying the Learning of the Indian Constitution",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A full-stack web application designed to educate users about the Indian Constitution through interactive modules and quizzes. Built with React, Go, MongoDB, and Tailwind CSS, the platform integrates AI to personalize learning experiences and enhance user engagement. The backend efficiently handles user data, authentication, and content delivery, while the front-end provides a sleek, responsive interface. Deployed using Render and Vercel, Samvidhan offers a fun, educational experience that simplifies complex constitutional concepts.",
+    url: "https://github.com/Aditya-Uppuluri/SIH-Samvidha",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Space",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Join me as I reflect on my journey in the tech world—starting with my early fascination for technology, overcoming challenges, and building innovative projects that push boundaries. Explore the experiences that have shaped my growth, from learning new languages to creating solutions that solve real-world problems.",
+    url: "https://medium.com/@abhi.uppuluri/my-journey-in-technology-from-the-classroom-to-real-world-innovation-a6a258dbdc7a",
   },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  // {
+  //   title: "GitHub Codespaces and github.dev",
+  //   description:
+  //     "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+  //   url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  // },
 ];
 
 const Portfolio = () => {
